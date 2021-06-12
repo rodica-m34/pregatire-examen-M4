@@ -1,0 +1,29 @@
+.add-series {
+    
+    border: 1px solid;
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    
+}
+
+.add-series h2 {
+    color: green;
+}
+.add-series .field input { 
+    padding: 5px 10px;
+    margin-bottom: 5px;
+}
+.add-series .field label {
+    text-align: right;
+    width: 30%;
+    display: inline-block;
+    padding-right: 10px;
+}
+
+.add-series button {
+    width: 60%;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: aquamarine;
+}
